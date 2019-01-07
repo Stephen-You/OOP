@@ -1,4 +1,4 @@
-package cn.yorick.json;
+package cn.yorick.json.fastjson;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;

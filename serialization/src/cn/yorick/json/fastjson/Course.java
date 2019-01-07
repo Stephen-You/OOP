@@ -1,4 +1,4 @@
-package cn.yorick.json;
+package cn.yorick.json.fastjson;
 
 public class Course {
 

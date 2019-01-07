@@ -1,4 +1,4 @@
-package cn.yorick.jackson;
+package cn.yorick.json.Jackson;
 
 public class Friend {
 	private String nickName;
